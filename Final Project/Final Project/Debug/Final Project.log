@@ -1,0 +1,13 @@
+﻿  Bishop.cpp
+  Board.cpp
+  Game functions.cpp
+C:\Users\harry\OneDrive\Documents\Fourth Year\OOPC++\Final Project\Final Project\Game functions.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Game.cpp
+  King.cpp
+  Knight.cpp
+  Moves.cpp
+  Pawn.cpp
+  Queen.cpp
+  Rook.cpp
+  Generating Code...
+  Final Project.vcxproj -> C:\Users\harry\OneDrive\Documents\Fourth Year\OOPC++\Final Project\Debug\Final Project.exe
